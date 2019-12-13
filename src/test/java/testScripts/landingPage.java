@@ -59,6 +59,7 @@ public  static void clickCheckOut() {
 
                 }
 
+
              catch (Exception e) {
 
                     clickCheckOut();
